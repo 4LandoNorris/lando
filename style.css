@@ -21,3 +21,6 @@ section {
     display: block;
     unicode-bidi: isolate;
 }
+img {
+    height: 200px;
+}
