@@ -18,6 +18,6 @@ section {
 }
 
 section {
-    ~~display: block;~~
+    display: block;
     unicode-bidi: isolate;
 }
