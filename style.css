@@ -29,9 +29,9 @@ img {
   <div class="categoria-videos">
     <!-- código omitido -->
   </div>
-/* </section> */
+</section> 
 
 .categoria {
-  /* padding-left 20px; */
-  /* padding-right: 20px; */
+   padding-left 20px;
+   padding-right: 20px; 
 }
