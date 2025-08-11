@@ -15,12 +15,10 @@ section {
     padding-top: 80px;
     display: flex;
     justify-content: center;
-}
-
-section {
+section }
     display: block;
     unicode-bidi: isolate;
-}
+    
 img {
     height: 200px;
 
@@ -29,6 +27,7 @@ img {
   overflow-x: auto;
   gap: 10px;
 } 
+section }
 .categoria {
    padding-left 20px;
    padding-right: 20px; 
